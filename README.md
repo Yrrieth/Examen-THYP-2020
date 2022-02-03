@@ -2,7 +2,7 @@
 
 ***
 
-# M2 THYP Examen Thierry WEN
+# M2 THYP Examen
 
 ## Thierry WEN
 
