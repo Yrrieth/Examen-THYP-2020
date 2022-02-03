@@ -4,8 +4,6 @@
 
 # M2 THYP Examen
 
-## Thierry WEN
-
 Lien README.md :  https://yrrieth.github.io/Examen-THYP-2020
 
 Lien index.html : https://yrrieth.github.io/Examen-THYP-2020/index.html
